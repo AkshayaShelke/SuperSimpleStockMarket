@@ -1,0 +1,6 @@
+stock_symbol,stock_type,last_divident,fixed_divident,par_value
+TEA,Common,0,,100
+POP,Common,8,,100
+ALE,Common,23,,60
+GIN,Preferred,8,2,100
+JOE,Common,13,,250
