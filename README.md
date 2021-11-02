@@ -36,12 +36,12 @@ JOE           | Common    | 13 |    | 250
 
 ## Main Application File
 ```
-python main.py
+main.py
 ```
 
 ## Test File
 ```
-python test.py
+test.py
 ```
 
 ## Author
